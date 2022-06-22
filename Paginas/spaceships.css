@@ -1,0 +1,20 @@
+body {
+  background-image: url(https://i.ytimg.com/vi/NtOwzU5Rpp8/maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h3 {
+  color: blue;
+}
+p {
+  color: rgb(8, 8, 214);
+}
+
+h1 {
+  color: blue;
+}
+
+.links {
+  color: chocolate;
+}
